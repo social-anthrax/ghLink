@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: ghlink
+Version: 0.0.1
+Summary: A tool to get line permalink
+Home-page: www.github.com/social_anthrax/ghlink
+Author: Artemis Livingstone
+Author-email: ar.d.livingstone@gmail.com
+License: MIT
+Description: # ghlink
+        
+        A quick tool I threw together cause I got fed up with having to use a browser to just get the permalink to some lines in GitHub.
+        Should work OOTB. 
+        
+        `/Test` exists simply for testing.
+        
+        ## Requirements
+        
+        - Git
+        - GitHub CLI
+        - Python3
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
